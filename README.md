@@ -1,3 +1,4 @@
+These are the queries i used for the Exploratory Data Analysis for Medidcines
 
 --MEDICINE EXPLORATORY DATA ANALYSIS PROJECT(ENTRY LEVEL)
 
